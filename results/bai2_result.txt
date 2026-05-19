@@ -1,0 +1,13 @@
+--- ĐIỂM TRUNG BÌNH THEO THỂ LOẠI PHIM ---
+Genre: Film-Noir, Avg: 4.36, Count: 7
+Genre: Horror, Avg: 4.00, Count: 2
+Genre: Mystery, Avg: 4.00, Count: 2
+Genre: Fantasy, Avg: 3.86, Count: 29
+Genre: Crime, Avg: 3.81, Count: 42
+Genre: Drama, Avg: 3.76, Count: 128
+Genre: Sci-Fi, Avg: 3.73, Count: 54
+Genre: Action, Avg: 3.71, Count: 54
+Genre: Thriller, Avg: 3.70, Count: 27
+Genre: Family, Avg: 3.67, Count: 18
+Genre: Adventure, Avg: 3.63, Count: 83
+Genre: Biography, Avg: 3.56, Count: 25

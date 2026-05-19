@@ -1,0 +1,2 @@
+--- TỔNG LƯỢT ĐÁNH GIÁ VÀ ĐIỂM TRUNG BÌNH THEO NĂM ---
+Year: 2020, Avg: 3.75, Count: 184

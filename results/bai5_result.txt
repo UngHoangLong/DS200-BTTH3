@@ -1,0 +1,15 @@
+--- ĐIỂM TRUNG BÌNH VÀ SỐ LƯỢT ĐÁNH GIÁ THEO NGHỀ NGHIỆP ---
+Occupation: Programmer, Avg: 4.25, Count: 10
+Occupation: Designer, Avg: 4.00, Count: 13
+Occupation: Student, Avg: 4.00, Count: 8
+Occupation: Nurse, Avg: 3.86, Count: 11
+Occupation: Consultant, Avg: 3.86, Count: 14
+Occupation: Journalist, Avg: 3.85, Count: 17
+Occupation: Artist, Avg: 3.73, Count: 11
+Occupation: Teacher, Avg: 3.70, Count: 5
+Occupation: Doctor, Avg: 3.69, Count: 21
+Occupation: Salesperson, Avg: 3.65, Count: 17
+Occupation: Lawyer, Avg: 3.65, Count: 17
+Occupation: Accountant, Avg: 3.58, Count: 6
+Occupation: Engineer, Avg: 3.56, Count: 18
+Occupation: Manager, Avg: 3.47, Count: 16

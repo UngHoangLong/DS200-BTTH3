@@ -1,0 +1,15 @@
+--- ĐIỂM TRUNG BÌNH MỖI PHIM THEO NHÓM TUỔI ---
+MovieID: 1010, Title: Lawrence of Arabia (1962), Under 18: N/A, 18-24: N/A, 25-34: 3.60(5), 35-44: 3.28(9), 45-54: 3.62(4), 55+: N/A
+MovieID: 1012, Title: Psycho (1960), Under 18: N/A, 18-24: N/A, 25-34: 4.50(1), 35-44: 3.50(1), 45-54: N/A, 55+: N/A
+MovieID: 1013, Title: The Godfather: Part II (1974), Under 18: N/A, 18-24: 4.00(2), 25-34: 3.71(7), 35-44: 4.25(8), 45-54: N/A, 55+: N/A
+MovieID: 1015, Title: Sunset Boulevard (1950), Under 18: N/A, 18-24: 4.50(1), 25-34: 4.00(2), 35-44: 4.50(2), 45-54: 4.50(2), 55+: N/A
+MovieID: 1020, Title: E.T. the Extra-Terrestrial (1982), Under 18: N/A, 18-24: 3.50(2), 25-34: 3.58(6), 35-44: 3.81(8), 45-54: 4.00(1), 55+: 3.00(1)
+MovieID: 1025, Title: The Terminator (1984), Under 18: N/A, 18-24: 4.50(1), 25-34: 4.10(5), 35-44: 4.00(7), 45-54: 4.17(3), 55+: 3.75(2)
+MovieID: 1028, Title: Fight Club (1999), Under 18: N/A, 18-24: N/A, 25-34: 3.50(3), 35-44: 3.50(2), 45-54: 3.50(2), 55+: N/A
+MovieID: 1030, Title: The Silence of the Lambs (1991), Under 18: N/A, 18-24: N/A, 25-34: 3.00(3), 35-44: 3.00(1), 45-54: 3.33(3), 55+: N/A
+MovieID: 1037, Title: The Lord of the Rings: The Fellowship of the Ring (2001), Under 18: N/A, 18-24: 4.00(1), 25-34: 4.00(5), 35-44: 3.69(8), 45-54: 4.12(4), 55+: N/A
+MovieID: 1039, Title: The Lord of the Rings: The Return of the King (2003), Under 18: N/A, 18-24: N/A, 25-34: 3.83(3), 35-44: 3.75(6), 45-54: 4.00(2), 55+: N/A
+MovieID: 1040, Title: Gladiator (2000), Under 18: N/A, 18-24: 3.50(1), 25-34: 3.42(6), 35-44: 3.75(6), 45-54: 3.88(4), 55+: 3.00(1)
+MovieID: 1043, Title: No Country for Old Men (2007), Under 18: N/A, 18-24: 3.50(1), 25-34: 3.83(6), 35-44: 3.75(6), 45-54: 4.38(4), 55+: 3.50(1)
+MovieID: 1047, Title: The Social Network (2010), Under 18: N/A, 18-24: N/A, 25-34: 4.00(4), 35-44: 3.50(2), 45-54: 4.00(1), 55+: N/A
+MovieID: 1050, Title: Mad Max: Fury Road (2015), Under 18: N/A, 18-24: 3.00(1), 25-34: 3.40(10), 35-44: 3.64(7), 45-54: N/A, 55+: N/A

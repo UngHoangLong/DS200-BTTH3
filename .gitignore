@@ -1,0 +1,4 @@
+DS200_BTTH3_venv/
+__pycache__/
+*.pyc
+.DS_Store

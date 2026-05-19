@@ -1,0 +1,15 @@
+--- ĐIỂM TRUNG BÌNH MỖI PHIM THEO GIỚI TÍNH ---
+MovieID: 1010, Title: Lawrence of Arabia (1962), F: 3.31(8), M: 3.55(10)
+MovieID: 1012, Title: Psycho (1960), F: 4.00(2), M: N/A
+MovieID: 1013, Title: The Godfather: Part II (1974), F: 3.94(8), M: 4.06(9)
+MovieID: 1015, Title: Sunset Boulevard (1950), F: 4.50(1), M: 4.33(6)
+MovieID: 1020, Title: E.T. the Extra-Terrestrial (1982), F: 3.55(10), M: 3.81(8)
+MovieID: 1025, Title: The Terminator (1984), F: 4.14(11), M: 3.93(7)
+MovieID: 1028, Title: Fight Club (1999), F: 3.50(3), M: 3.50(4)
+MovieID: 1030, Title: The Silence of the Lambs (1991), F: 3.00(4), M: 3.33(3)
+MovieID: 1037, Title: The Lord of the Rings: The Fellowship of the Ring (2001), F: 3.80(10), M: 4.00(8)
+MovieID: 1039, Title: The Lord of the Rings: The Return of the King (2003), F: 3.90(5), M: 3.75(6)
+MovieID: 1040, Title: Gladiator (2000), F: 3.64(7), M: 3.59(11)
+MovieID: 1043, Title: No Country for Old Men (2007), F: 3.83(6), M: 3.92(12)
+MovieID: 1047, Title: The Social Network (2010), F: 3.67(3), M: 4.00(4)
+MovieID: 1050, Title: Mad Max: Fury Road (2015), F: 3.32(14), M: 4.00(4)

@@ -1,0 +1,18 @@
+--- DANH SÁCH PHIM - ĐIỂM TRUNG BÌNH - SỐ LƯỢT ĐÁNH GIÁ ---
+MovieID: 1040, Title: Gladiator (2000), Avg: 3.61, Count: 18
+MovieID: 1025, Title: The Terminator (1984), Avg: 4.06, Count: 18
+MovieID: 1010, Title: Lawrence of Arabia (1962), Avg: 3.44, Count: 18
+MovieID: 1043, Title: No Country for Old Men (2007), Avg: 3.89, Count: 18
+MovieID: 1012, Title: Psycho (1960), Avg: 4.00, Count: 2
+MovieID: 1028, Title: Fight Club (1999), Avg: 3.50, Count: 7
+MovieID: 1013, Title: The Godfather: Part II (1974), Avg: 4.00, Count: 17
+MovieID: 1030, Title: The Silence of the Lambs (1991), Avg: 3.14, Count: 7
+MovieID: 1015, Title: Sunset Boulevard (1950), Avg: 4.36, Count: 7
+MovieID: 1047, Title: The Social Network (2010), Avg: 3.86, Count: 7
+MovieID: 1050, Title: Mad Max: Fury Road (2015), Avg: 3.47, Count: 18
+MovieID: 1020, Title: E.T. the Extra-Terrestrial (1982), Avg: 3.67, Count: 18
+MovieID: 1037, Title: The Lord of the Rings: The Fellowship of the Ring (2001), Avg: 3.89, Count: 18
+MovieID: 1039, Title: The Lord of the Rings: The Return of the King (2003), Avg: 3.82, Count: 11
+
+--- PHIM CÓ ĐIỂM TRUNG BÌNH CAO NHẤT (>= 5 LƯỢT ĐÁNH GIÁ) ---
+Title: Sunset Boulevard (1950), Avg: 4.36, Count: 7
